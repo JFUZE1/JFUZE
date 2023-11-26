@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hossein Jamshidi and my nickname is JFUZE i will be happy if you call me just Jay
+- 👋 Hi, I’m Hossein Jamshidi and my nickname is JFUZE 
 - 👀 I’m interested in C# programming since 2018 till now.
 - 🌱 I’m currently learning Asp.ent MVC
 - 💞️ I’m looking to collaborate on Nikamooz
