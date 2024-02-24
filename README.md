@@ -1,11 +1,5 @@
-- 👋 Hi, I’m Hossein Jamshidi and my nickname is JFUZE 
-- 👀 I’m interested in C# programming since 2018 till now.
-- 🌱 I’m currently learning Asp.ent MVC
-- 💞️ I’m looking to collaborate on Nikamooz
-- 📫 You can reach me:
--     + Skype:     live:.cid.a3919dcfecaf1652
--     + Telegram:  @Jamshidi_Hn
-- 
+- 👋 Hi, I’m Hossein.
+
 
 <!---
 JFUZE1/JFUZE1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
